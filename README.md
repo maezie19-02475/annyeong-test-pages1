@@ -5,3 +5,4 @@ This is an example repository for the Git tutorial for IT 332: Integrative Progr
 
 Waku waku!
 Enjoy!
+-Casabal, Maezie L.
